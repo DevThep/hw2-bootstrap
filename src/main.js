@@ -13,7 +13,8 @@ Vue.use(BootstrapVue)
 import Axios from 'axios'
 Vue.$http = Axios
 // ---------------------
-Axios.defaults.baseURL = 'https://iccs340-vue-api-auth.herokuapp.com/'
+// Axios.defaults.baseURL = 'https://iccs340-vue-api-auth.herokuapp.com/'
+Axios.defaults.baseURL = 'https://iccs340-backend-rails-dev.herokuapp.com/'
 Axios.defaults.headers.common.Accept = 'application/json'
 Axios.defaults.withCredentials = true
 
