@@ -11,6 +11,8 @@ Rails Project on bitbucket repository :
 [https://bitbucket.org/DevSingh27/vue-api-auth]
 Also hosted Rails Project on heroku.
 
+### Made /docs folder to include dist files from npm run build
+
 > A Vue.js project
 
 ## Build Setup
