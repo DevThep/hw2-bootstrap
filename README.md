@@ -6,6 +6,11 @@
 ### Homework 2 with Bootstrap Vue Theme 
 [https://github.com/bootstrap-vue/bootstrap-vue]
 
+Rails modified to add 'User has many Posts' relation.
+Rails Project on bitbucket repository :
+[https://bitbucket.org/DevSingh27/vue-api-auth]
+Also hosted Rails Project on heroku.
+
 > A Vue.js project
 
 ## Build Setup
