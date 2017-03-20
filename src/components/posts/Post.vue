@@ -32,7 +32,6 @@ export default {
     display: inline-block;
   }
   .block {
-    position: absolute;
     top: -15px;
     left: 0px;
   }
